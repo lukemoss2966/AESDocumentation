@@ -1,0 +1,376 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ASE_Project
+  name: ASE_Project
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.html
+  commentId: N:ASE_Project
+  fullName: ASE_Project
+  nameWithType: ASE_Project
+- uid: ASE_Project.AppCanvas
+  name: AppCanvas
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html
+  commentId: T:ASE_Project.AppCanvas
+  fullName: ASE_Project.AppCanvas
+  nameWithType: AppCanvas
+- uid: ASE_Project.AppCanvas.#ctor
+  name: AppCanvas()
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas__ctor
+  commentId: M:ASE_Project.AppCanvas.#ctor
+  name.vb: New()
+  fullName: ASE_Project.AppCanvas.AppCanvas()
+  fullName.vb: ASE_Project.AppCanvas.New()
+  nameWithType: AppCanvas.AppCanvas()
+  nameWithType.vb: AppCanvas.New()
+- uid: ASE_Project.AppCanvas.#ctor*
+  name: AppCanvas
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas__ctor_
+  commentId: Overload:ASE_Project.AppCanvas.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Project.AppCanvas.AppCanvas
+  fullName.vb: ASE_Project.AppCanvas.New
+  nameWithType: AppCanvas.AppCanvas
+  nameWithType.vb: AppCanvas.New
+- uid: ASE_Project.AppCanvas.Circle(System.Int32,System.Boolean)
+  name: Circle(int, bool)
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Circle_System_Int32_System_Boolean_
+  commentId: M:ASE_Project.AppCanvas.Circle(System.Int32,System.Boolean)
+  name.vb: Circle(Integer, Boolean)
+  fullName: ASE_Project.AppCanvas.Circle(int, bool)
+  fullName.vb: ASE_Project.AppCanvas.Circle(Integer, Boolean)
+  nameWithType: AppCanvas.Circle(int, bool)
+  nameWithType.vb: AppCanvas.Circle(Integer, Boolean)
+- uid: ASE_Project.AppCanvas.Circle*
+  name: Circle
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Circle_
+  commentId: Overload:ASE_Project.AppCanvas.Circle
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.Circle
+  nameWithType: AppCanvas.Circle
+- uid: ASE_Project.AppCanvas.Clear
+  name: Clear()
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Clear
+  commentId: M:ASE_Project.AppCanvas.Clear
+  fullName: ASE_Project.AppCanvas.Clear()
+  nameWithType: AppCanvas.Clear()
+- uid: ASE_Project.AppCanvas.Clear*
+  name: Clear
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Clear_
+  commentId: Overload:ASE_Project.AppCanvas.Clear
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.Clear
+  nameWithType: AppCanvas.Clear
+- uid: ASE_Project.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:ASE_Project.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: ASE_Project.AppCanvas.DrawTo(int, int)
+  fullName.vb: ASE_Project.AppCanvas.DrawTo(Integer, Integer)
+  nameWithType: AppCanvas.DrawTo(int, int)
+  nameWithType.vb: AppCanvas.DrawTo(Integer, Integer)
+- uid: ASE_Project.AppCanvas.DrawTo*
+  name: DrawTo
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_DrawTo_
+  commentId: Overload:ASE_Project.AppCanvas.DrawTo
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.DrawTo
+  nameWithType: AppCanvas.DrawTo
+- uid: ASE_Project.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:ASE_Project.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: ASE_Project.AppCanvas.MoveTo(int, int)
+  fullName.vb: ASE_Project.AppCanvas.MoveTo(Integer, Integer)
+  nameWithType: AppCanvas.MoveTo(int, int)
+  nameWithType.vb: AppCanvas.MoveTo(Integer, Integer)
+- uid: ASE_Project.AppCanvas.MoveTo*
+  name: MoveTo
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_MoveTo_
+  commentId: Overload:ASE_Project.AppCanvas.MoveTo
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.MoveTo
+  nameWithType: AppCanvas.MoveTo
+- uid: ASE_Project.AppCanvas.PenColour
+  name: PenColour
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_PenColour
+  commentId: P:ASE_Project.AppCanvas.PenColour
+  fullName: ASE_Project.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: ASE_Project.AppCanvas.PenColour*
+  name: PenColour
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_PenColour_
+  commentId: Overload:ASE_Project.AppCanvas.PenColour
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: ASE_Project.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:ASE_Project.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: ASE_Project.AppCanvas.Rect(int, int, bool)
+  fullName.vb: ASE_Project.AppCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: AppCanvas.Rect(int, int, bool)
+  nameWithType.vb: AppCanvas.Rect(Integer, Integer, Boolean)
+- uid: ASE_Project.AppCanvas.Rect*
+  name: Rect
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Rect_
+  commentId: Overload:ASE_Project.AppCanvas.Rect
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.Rect
+  nameWithType: AppCanvas.Rect
+- uid: ASE_Project.AppCanvas.Reset
+  name: Reset()
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Reset
+  commentId: M:ASE_Project.AppCanvas.Reset
+  fullName: ASE_Project.AppCanvas.Reset()
+  nameWithType: AppCanvas.Reset()
+- uid: ASE_Project.AppCanvas.Reset*
+  name: Reset
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Reset_
+  commentId: Overload:ASE_Project.AppCanvas.Reset
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.Reset
+  nameWithType: AppCanvas.Reset
+- uid: ASE_Project.AppCanvas.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Set_System_Int32_System_Int32_
+  commentId: M:ASE_Project.AppCanvas.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: ASE_Project.AppCanvas.Set(int, int)
+  fullName.vb: ASE_Project.AppCanvas.Set(Integer, Integer)
+  nameWithType: AppCanvas.Set(int, int)
+  nameWithType.vb: AppCanvas.Set(Integer, Integer)
+- uid: ASE_Project.AppCanvas.Set*
+  name: Set
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Set_
+  commentId: Overload:ASE_Project.AppCanvas.Set
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.Set
+  nameWithType: AppCanvas.Set
+- uid: ASE_Project.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:ASE_Project.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: ASE_Project.AppCanvas.SetColour(int, int, int)
+  fullName.vb: ASE_Project.AppCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: AppCanvas.SetColour(int, int, int)
+  nameWithType.vb: AppCanvas.SetColour(Integer, Integer, Integer)
+- uid: ASE_Project.AppCanvas.SetColour*
+  name: SetColour
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_SetColour_
+  commentId: Overload:ASE_Project.AppCanvas.SetColour
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.SetColour
+  nameWithType: AppCanvas.SetColour
+- uid: ASE_Project.AppCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:ASE_Project.AppCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: ASE_Project.AppCanvas.Tri(int, int)
+  fullName.vb: ASE_Project.AppCanvas.Tri(Integer, Integer)
+  nameWithType: AppCanvas.Tri(int, int)
+  nameWithType.vb: AppCanvas.Tri(Integer, Integer)
+- uid: ASE_Project.AppCanvas.Tri*
+  name: Tri
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Tri_
+  commentId: Overload:ASE_Project.AppCanvas.Tri
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.Tri
+  nameWithType: AppCanvas.Tri
+- uid: ASE_Project.AppCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_WriteText_System_String_
+  commentId: M:ASE_Project.AppCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: ASE_Project.AppCanvas.WriteText(string)
+  fullName.vb: ASE_Project.AppCanvas.WriteText(String)
+  nameWithType: AppCanvas.WriteText(string)
+  nameWithType.vb: AppCanvas.WriteText(String)
+- uid: ASE_Project.AppCanvas.WriteText*
+  name: WriteText
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_WriteText_
+  commentId: Overload:ASE_Project.AppCanvas.WriteText
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.WriteText
+  nameWithType: AppCanvas.WriteText
+- uid: ASE_Project.AppCanvas.Xpos
+  name: Xpos
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Xpos
+  commentId: P:ASE_Project.AppCanvas.Xpos
+  fullName: ASE_Project.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: ASE_Project.AppCanvas.Xpos*
+  name: Xpos
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Xpos_
+  commentId: Overload:ASE_Project.AppCanvas.Xpos
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: ASE_Project.AppCanvas.Ypos
+  name: Ypos
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Ypos
+  commentId: P:ASE_Project.AppCanvas.Ypos
+  fullName: ASE_Project.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: ASE_Project.AppCanvas.Ypos*
+  name: Ypos
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_Ypos_
+  commentId: Overload:ASE_Project.AppCanvas.Ypos
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: ASE_Project.AppCanvas.g
+  name: g
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_g
+  commentId: F:ASE_Project.AppCanvas.g
+  fullName: ASE_Project.AppCanvas.g
+  nameWithType: AppCanvas.g
+- uid: ASE_Project.AppCanvas.getBitmap
+  name: getBitmap()
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_getBitmap
+  commentId: M:ASE_Project.AppCanvas.getBitmap
+  fullName: ASE_Project.AppCanvas.getBitmap()
+  nameWithType: AppCanvas.getBitmap()
+- uid: ASE_Project.AppCanvas.getBitmap*
+  name: getBitmap
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.AppCanvas.html#ASE_Project_AppCanvas_getBitmap_
+  commentId: Overload:ASE_Project.AppCanvas.getBitmap
+  isSpec: "True"
+  fullName: ASE_Project.AppCanvas.getBitmap
+  nameWithType: AppCanvas.getBitmap
+- uid: ASE_Project.Form1
+  name: Form1
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.Form1.html
+  commentId: T:ASE_Project.Form1
+  fullName: ASE_Project.Form1
+  nameWithType: Form1
+- uid: ASE_Project.Form1.#ctor
+  name: Form1()
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.Form1.html#ASE_Project_Form1__ctor
+  commentId: M:ASE_Project.Form1.#ctor
+  name.vb: New()
+  fullName: ASE_Project.Form1.Form1()
+  fullName.vb: ASE_Project.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: ASE_Project.Form1.#ctor*
+  name: Form1
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.Form1.html#ASE_Project_Form1__ctor_
+  commentId: Overload:ASE_Project.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Project.Form1.Form1
+  fullName.vb: ASE_Project.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: ASE_Project.Form1.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.Form1.html#ASE_Project_Form1_Dispose_System_Boolean_
+  commentId: M:ASE_Project.Form1.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: ASE_Project.Form1.Dispose(bool)
+  fullName.vb: ASE_Project.Form1.Dispose(Boolean)
+  nameWithType: Form1.Dispose(bool)
+  nameWithType.vb: Form1.Dispose(Boolean)
+- uid: ASE_Project.Form1.Dispose*
+  name: Dispose
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.Form1.html#ASE_Project_Form1_Dispose_
+  commentId: Overload:ASE_Project.Form1.Dispose
+  isSpec: "True"
+  fullName: ASE_Project.Form1.Dispose
+  nameWithType: Form1.Dispose
+- uid: ASE_Project.MessageBoxWrapper
+  name: MessageBoxWrapper
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.MessageBoxWrapper.html
+  commentId: T:ASE_Project.MessageBoxWrapper
+  fullName: ASE_Project.MessageBoxWrapper
+  nameWithType: MessageBoxWrapper
+- uid: ASE_Project.MessageBoxWrapper.ShowMessageBox
+  name: ShowMessageBox
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/ASE_Project.MessageBoxWrapper.html#ASE_Project_MessageBoxWrapper_ShowMessageBox
+  commentId: F:ASE_Project.MessageBoxWrapper.ShowMessageBox
+  fullName: ASE_Project.MessageBoxWrapper.ShowMessageBox
+  nameWithType: MessageBoxWrapper.ShowMessageBox
+- uid: UnitTestProjectFinal.ASEUnitTest
+  name: UnitTestProjectFinal.ASEUnitTest
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.html
+  commentId: N:UnitTestProjectFinal.ASEUnitTest
+  fullName: UnitTestProjectFinal.ASEUnitTest
+  nameWithType: UnitTestProjectFinal.ASEUnitTest
+- uid: UnitTestProjectFinal.ASEUnitTest.AESUnitTest
+  name: AESUnitTest
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html
+  commentId: T:UnitTestProjectFinal.ASEUnitTest.AESUnitTest
+  fullName: UnitTestProjectFinal.ASEUnitTest.AESUnitTest
+  nameWithType: AESUnitTest
+- uid: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_InsideBoundariesCase
+  name: TestDrawTo_InsideBoundariesCase()
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html#UnitTestProjectFinal_ASEUnitTest_AESUnitTest_TestDrawTo_InsideBoundariesCase
+  commentId: M:UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_InsideBoundariesCase
+  fullName: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_InsideBoundariesCase()
+  nameWithType: AESUnitTest.TestDrawTo_InsideBoundariesCase()
+- uid: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_InsideBoundariesCase*
+  name: TestDrawTo_InsideBoundariesCase
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html#UnitTestProjectFinal_ASEUnitTest_AESUnitTest_TestDrawTo_InsideBoundariesCase_
+  commentId: Overload:UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_InsideBoundariesCase
+  isSpec: "True"
+  fullName: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_InsideBoundariesCase
+  nameWithType: AESUnitTest.TestDrawTo_InsideBoundariesCase
+- uid: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_OutsideBoundariesCase
+  name: TestDrawTo_OutsideBoundariesCase()
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html#UnitTestProjectFinal_ASEUnitTest_AESUnitTest_TestDrawTo_OutsideBoundariesCase
+  commentId: M:UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_OutsideBoundariesCase
+  fullName: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_OutsideBoundariesCase()
+  nameWithType: AESUnitTest.TestDrawTo_OutsideBoundariesCase()
+- uid: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_OutsideBoundariesCase*
+  name: TestDrawTo_OutsideBoundariesCase
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html#UnitTestProjectFinal_ASEUnitTest_AESUnitTest_TestDrawTo_OutsideBoundariesCase_
+  commentId: Overload:UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_OutsideBoundariesCase
+  isSpec: "True"
+  fullName: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_OutsideBoundariesCase
+  nameWithType: AESUnitTest.TestDrawTo_OutsideBoundariesCase
+- uid: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_gNullCase
+  name: TestDrawTo_gNullCase()
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html#UnitTestProjectFinal_ASEUnitTest_AESUnitTest_TestDrawTo_gNullCase
+  commentId: M:UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_gNullCase
+  fullName: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_gNullCase()
+  nameWithType: AESUnitTest.TestDrawTo_gNullCase()
+- uid: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_gNullCase*
+  name: TestDrawTo_gNullCase
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html#UnitTestProjectFinal_ASEUnitTest_AESUnitTest_TestDrawTo_gNullCase_
+  commentId: Overload:UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_gNullCase
+  isSpec: "True"
+  fullName: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestDrawTo_gNullCase
+  nameWithType: AESUnitTest.TestDrawTo_gNullCase
+- uid: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_InsideBoundariesCase
+  name: TestMoveTo_InsideBoundariesCase()
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html#UnitTestProjectFinal_ASEUnitTest_AESUnitTest_TestMoveTo_InsideBoundariesCase
+  commentId: M:UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_InsideBoundariesCase
+  fullName: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_InsideBoundariesCase()
+  nameWithType: AESUnitTest.TestMoveTo_InsideBoundariesCase()
+- uid: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_InsideBoundariesCase*
+  name: TestMoveTo_InsideBoundariesCase
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html#UnitTestProjectFinal_ASEUnitTest_AESUnitTest_TestMoveTo_InsideBoundariesCase_
+  commentId: Overload:UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_InsideBoundariesCase
+  isSpec: "True"
+  fullName: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_InsideBoundariesCase
+  nameWithType: AESUnitTest.TestMoveTo_InsideBoundariesCase
+- uid: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_OutsideBoundariesCase
+  name: TestMoveTo_OutsideBoundariesCase()
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html#UnitTestProjectFinal_ASEUnitTest_AESUnitTest_TestMoveTo_OutsideBoundariesCase
+  commentId: M:UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_OutsideBoundariesCase
+  fullName: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_OutsideBoundariesCase()
+  nameWithType: AESUnitTest.TestMoveTo_OutsideBoundariesCase()
+- uid: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_OutsideBoundariesCase*
+  name: TestMoveTo_OutsideBoundariesCase
+  href: ASE%20Boose%20Luke%20Moss%20c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html#UnitTestProjectFinal_ASEUnitTest_AESUnitTest_TestMoveTo_OutsideBoundariesCase_
+  commentId: Overload:UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_OutsideBoundariesCase
+  isSpec: "True"
+  fullName: UnitTestProjectFinal.ASEUnitTest.AESUnitTest.TestMoveTo_OutsideBoundariesCase
+  nameWithType: AESUnitTest.TestMoveTo_OutsideBoundariesCase

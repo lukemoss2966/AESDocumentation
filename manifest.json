@@ -1,0 +1,92 @@
+{
+  "source_base_path": "C:/Users/d4829/source/documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE Boose Luke Moss c3623723/ASE_Project.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Boose Luke Moss c3623723/ASE_Project.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE Boose Luke Moss c3623723/ASE_Project.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Boose Luke Moss c3623723/ASE_Project.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE Boose Luke Moss c3623723/ASE_Project.MessageBoxWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Boose Luke Moss c3623723/ASE_Project.MessageBoxWrapper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE Boose Luke Moss c3623723/ASE_Project.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Boose Luke Moss c3623723/ASE_Project.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE Boose Luke Moss c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Boose Luke Moss c3623723/UnitTestProjectFinal.ASEUnitTest.AESUnitTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "ASE Boose Luke Moss c3623723/UnitTestProjectFinal.ASEUnitTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Boose Luke Moss c3623723/UnitTestProjectFinal.ASEUnitTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ASE Boose Luke Moss c3623723/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE Boose Luke Moss c3623723/toc.html"
+        },
+        ".json": {
+          "relative_path": "ASE Boose Luke Moss c3623723/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
